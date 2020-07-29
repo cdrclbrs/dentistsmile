@@ -8,8 +8,8 @@ logo_url: svg/min/logo.svg
 # Hero
 hero: 
     hero_img: hero.jpg
-    hero_title: DentistSmile
-    hero_description: A responsive Jekyll theme for dental clinics.
+    hero_title: CoolSmile
+    hero_description: Nouveau test de cool smaile
 
 # Contact form
 api_token: # Enter API token here
@@ -22,7 +22,7 @@ contact:
     address: Von schroeders 273, <br> Viña del mar - Chile
 
 # Opening hours
-monday_friday: 9:00 – 18:00
+monday_friday: 2:00 – 18:00
 saturday: 10:00 – 17:00
 sunday: 10:00 – 15:00
 
@@ -45,7 +45,7 @@ skype: skype:obaez_design?userinfo
 feed: yes
 
 # Footer
-copyright: © 2015 DentistSmile - All rights reserved
+copyright: © 2020 Kool Smiledentist
 
 # Build settings
 markdown: kramdown
